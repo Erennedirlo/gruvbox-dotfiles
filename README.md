@@ -1,4 +1,4 @@
-# gruvbox-dotfiles
+# [gruvbox-dotfiles](https://github.com/Erennedirlo/gruvbox-dotfiles)
 
 # Above are the configuration files to my Gruvbox themed rice.
 
