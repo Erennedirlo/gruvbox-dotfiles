@@ -21,6 +21,4 @@ bspc rule -a Steam state=floating center=on follow=on border=off
 bspc rule -a Gpick state=floating center=on rectangle=960x540+0+0
 ~/.config/polybar/launch.sh &
 
-feh --bg-fill ~/Pictures/Wallpapers/platform.jpg &
-
 picom -b &
