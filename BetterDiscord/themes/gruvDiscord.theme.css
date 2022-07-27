@@ -1,0 +1,48 @@
+/**
+* @name gruvdiscord
+* @author Sh3ll#8204
+* @description A theme based on gruvbox style!
+* @version 1.0
+* @donate https://www.buymeacoffee.com/doctorsh3ll
+* @source https://www.github.com/doctorsh3ll/gruvdiscord
+*/
+
+@import url("https://doctorsh3ll.github.io/gruvdiscord/src/main.css");
+@import url("https://doctorsh3ll.github.io/gruvdiscord/src/animation.css");
+
+/* Variables */
+
+.theme-dark {
+    --background-primary: #32302F;
+    --background-primary-alt: #32302F;
+    --background-secondary: #32302F;
+    --background-secondary-alt: #32302F;
+    --background-tertiary: #32302F;
+    --background-modifier-active: #373432;
+    --background-modifier-selected: #504945;
+    --background-modifier-accent: #3C3836;
+    --background-floating: #32302F;
+    --background-accent: #504945;
+    --border: #3C3836;
+    --brand-experiment-30a: #EB3E49;
+    --brand-experiment-200: #E1D2B1;
+    --brand-experiment-560: #504945;
+    --channels-default: #ebdbb2;
+    --color-transition-hover: #504945;
+    --elevation-low: none;
+    --elevation-medium: none;
+    --elevation-high: none;
+    --scrollbar-thin-thumb: #665c54;
+    --scrollbar-auto-track: #32302F;
+    --header-primary: #ebdbb2;
+    --interactive-normal: #EBDBB4;
+    --interactive-hover: #fbf1c7;
+    --interactive-active: #fbf1c7;
+    --elevation-stroke: #3C3836;
+    --text-normal: #E1D2AD;
+    --text-link: #b8ba35;
+    --speaking: #AFB13F;
+    --brand-experiment: #3d5b5b;
+    --text-muted: #928375;
+    --header-secondary: #ebdbb2;
+}
